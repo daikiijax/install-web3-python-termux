@@ -1,6 +1,8 @@
+how to install web3 py on termux
+##
 steps to install Web3 modules in Termux.
 
-1. Install Rust dan Binutils
+1. Install Rust and Binutils
 
 ```bash
 pkg install -y rust binutils
